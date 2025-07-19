@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SYNTAX ERROR</h1>
+<h1 align="center">Hi 👋, I'm Shubham </h1>
 <h3 align="center">🧠 Full-Stack Developer | ⚙️ DevOps Enthusiast | 🐧 Linux Explorer</h3>
 
 <p align="center">
@@ -26,28 +26,9 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham982194&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham982194&theme=radical" />
-</p>
-
 ---
 
 ## 🤖 Latest Projects
 - 🚀 `devops-docker-app` — full CI/CD + containerization action
-- 🌐 `crazy-ahh-website` — testing how much CSS chaos the web can handle
 - 🧪 `auto-git-scripter` — Bash script to automate GitHub repo creation
-
----
-
-## 📡 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/)
-[![Gmail](https://img.shields.io/badge/-shubhamadhana787@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:shubhamadhana787@gmail.com)
-
----
-
-> ⚠️ Warning: Contents of this profile may cause spontaneous learning.
 
